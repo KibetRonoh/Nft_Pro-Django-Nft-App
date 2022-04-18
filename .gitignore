@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.docx
+__pycache__/
+
+
+venv
